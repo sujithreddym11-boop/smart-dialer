@@ -1,0 +1,8 @@
+A progressive utilization 82.6 % initiated 446 connected 81 proposed 626 approved 446
+A predictive utilization 82.6 % initiated 446 connected 81 proposed 3928 approved 446
+B progressive utilization 91.8 % initiated 217 connected 111 proposed 217 approved 217
+B predictive utilization 91.8 % initiated 217 connected 111 proposed 705 approved 217
+C progressive utilization 97.1 % initiated 77 connected 60 proposed 77 approved 77
+C predictive utilization 97.1 % initiated 77 connected 60 proposed 187 approved 77
+D progressive utilization 53.5 % initiated 169 connected 53 proposed 2134 approved 169
+D predictive utilization 53.5 % initiated 169 connected 53 proposed 5712 approved 169

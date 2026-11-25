@@ -1,0 +1,13 @@
+test_concurrency (test_dialer.Tests.test_concurrency) ... ok
+test_duplicate_start (test_dialer.Tests.test_duplicate_start) ... ok
+test_duplicates (test_dialer.Tests.test_duplicates) ... ok
+test_offline (test_dialer.Tests.test_offline) ... ok
+test_order (test_dialer.Tests.test_order) ... ok
+test_outage (test_dialer.Tests.test_outage) ... ok
+test_restart (test_dialer.Tests.test_restart) ... ok
+test_safety (test_dialer.Tests.test_safety) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.076s
+
+OK

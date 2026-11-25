@@ -1,0 +1,3 @@
+100 agents: 100 reservations in 0.057s (1767/s), 8 workers
+1000 agents: 1000 reservations in 0.081s (12288/s), 8 workers
+10000 agents: 10000 reservations in 0.232s (43049/s), 8 workers
